@@ -38,65 +38,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[Cityworks (Trimble)](https://www.cityworks.com/)**  
-
-  Leading GIS-centric public works and asset management platform tightly integrated with Esri ArcGIS for infrastructure lifecycle management.
-
-
-
-- **[Cartegraph (OpenGov)](https://www.cartegraph.com/)**  
-
-  Municipal asset and operations management platform (now part of OpenGov) covering roads, parks, facilities, and related public works assets.
-
-
-
-- **[OpenGov Public Works / EAM](https://opengov.com/)**  
-
-  Government cloud platform that includes public works, asset management, work orders, and capital planning capabilities.
-
-
-
-- **[Asset Essentials (Brightly)](https://www.brightlysoftware.com/)**  
-
-  Cloud CMMS/asset management solution frequently used by public sector organizations for facilities and infrastructure maintenance.
-
-
-
-- **[Brightly Confirm](https://www.brightlysoftware.com/)**  
-
-  Infrastructure asset management and investment planning tools within the Brightly portfolio.
-
-
-
-- **[Lucity](https://www.lucity.com/)**  
-
-  Public works management software for work orders, assets, and municipal operations.
-
-
-
-- **[Infor Public Sector](https://www.infor.com/)**  
-
-  Enterprise solutions for public sector operations, including asset and work management capabilities.
-
-
-
-- **[MaintainX](https://www.getmaintainx.com/)**  
-
-  Modern mobile-first CMMS and work order platform used by both private and public organizations.
-
-
-
-- **[UpKeep](https://www.upkeep.com/)**  
-
-  Asset and maintenance management platform with work order, preventive maintenance, and inventory features.
-
-
-
-- **[IBM Maximo](https://www.ibm.com/products/maximo)**  
-
-  Enterprise asset management platform widely used for complex infrastructure and public-sector asset programs.
+| Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Cityworks (Trimble)](https://www.cityworks.com/)** | Leading GIS-centric public works and asset management platform tightly integrated with Esri ArcGIS for infrastructure lifecycle management. | Annual subscription quotes (base deployments typically start around $1,995/yr - $50,000+/yr based on scale) | No free trial; custom interactive demos available upon request |
+| **[Cartegraph (OpenGov)](https://www.cartegraph.com/)** | Municipal asset and operations management platform (now part of OpenGov) covering roads, parks, facilities, and related public works assets. | Custom annual subscription quotes (base subscriptions estimated from $1,499/user/yr) | No free trial; live customized demo sessions provided |
+| **[OpenGov Public Works / EAM](https://opengov.com/)** | Government cloud platform that includes public works, asset management, work orders, and capital planning capabilities. | Custom enterprise quotes based on agency size and module selection | No free trial; personalized demos available for government agencies |
+| **[Asset Essentials (Brightly)](https://www.brightlysoftware.com/)** | Cloud CMMS/asset management solution frequently used by public sector organizations for facilities and infrastructure maintenance. | Custom annual quotes (small deployments typically range from $100–$300/mo) | No free trial; guided product demos provided |
+| **[Brightly Confirm](https://www.brightlysoftware.com/)** | Infrastructure asset management and investment planning tools within the Brightly portfolio. | Custom enterprise quotes based on asset volume and infrastructure scope | No free trial; scheduled product demonstrations available |
+| **[Lucity (CentralSquare EAM)](https://www.lucity.com/)** | Public works management software for work orders, assets, and municipal operations. | Custom enterprise quote-based pricing via CentralSquare Technologies | No free trial; customized software demonstrations offered |
+| **[Infor Public Sector](https://www.infor.com/)** | Enterprise solutions for public sector operations, including asset and work management capabilities. | Custom annual enterprise subscription quotes based on modules and user count | No free trial; tailored enterprise demos available |
+| **[MaintainX](https://www.getmaintainx.com/)** | Modern mobile-first CMMS and work order platform used by both private and public organizations. | $20 per user/month (Essential plan, billed annually) or $25/mo (monthly) | Free for life Basic plan (max 2 active repeating work orders, 1 month analytics) |
+| **[UpKeep](https://www.upkeep.com/)** | Asset and maintenance management platform with work order, preventive maintenance, and inventory features. | $20 per user/month (Essential plan, billed annually) or $24/mo (monthly) | 7-day free trial (no credit card required; free unlimited view-only/requester users) |
+| **[IBM Maximo](https://www.ibm.com/products/maximo)** | Enterprise asset management platform widely used for complex infrastructure and public-sector asset programs. | Credit-based AppPoints model (estimates starting around $164 per user/month) | 14-day free trial (includes access to Maximo Manage and Maximo Health with sample data) |
 
 
 
